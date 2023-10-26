@@ -1,0 +1,15 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2px;
+}
+
+.container {
+    padding: 20px;
+}
+.container button {
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+}
